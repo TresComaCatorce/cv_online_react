@@ -10,11 +10,15 @@ const SectionOne = props => {
 			<div className='container'>
 				<div className='row m-0'>
 					<div className='left-pane col s12 m12 l7'>
-						<h3>Cristian Blas Ferrero</h3>
-						<h5 className='right-1'>Desarrollador</h5>
+						<h3 className='opacity-0'>
+							Cristian Blas Ferrero
+						</h3>
+						<h5 className='right-1'>
+							Desarrollador
+						</h5>
 						<h6 className='right-2'>
 							<i className='tiny material-icons'>person</i> &nbsp;&nbsp;27 años
-					</h6>
+						</h6>
 						<h6 className='right-3'>
 							<i className='tiny material-icons'>location_on</i>
 							&nbsp;&nbsp;
